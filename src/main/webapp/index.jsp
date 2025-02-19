@@ -9,5 +9,8 @@
 <h1 style="font-weight: bold; color: blue; font-size:40px; text-align: center;">
       Doing Automation through PollSCM
 </h1>
+<h1 style="font-weight: bold; color: green; font-size:40px; text-align: center;">
+     Automation is working
+</h1>
 </body>
 </html>
