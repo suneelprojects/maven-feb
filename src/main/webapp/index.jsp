@@ -1,4 +1,7 @@
 <html>
+<title>
+      Welcome to Jenkins End to End Project 
+</title>
 <body>
 <h1 style="font-weight: bold; color: blue; font-size:40px; text-align: center;">
       Welcome to Jenkins Freestyle Deployment Session
